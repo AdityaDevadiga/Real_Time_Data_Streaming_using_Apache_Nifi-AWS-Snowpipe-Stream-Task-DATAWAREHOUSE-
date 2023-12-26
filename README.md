@@ -1,5 +1,9 @@
 # Real_Time_Data_Streaming_using_Apache_Nifi-AWS-Snowpipe-Stream-Task-DATAWAREHOUSE-
 
+# Architecture Diagram
+
+   
+
 # SCD2 Snowflake Docker Project
 
 This Docker project demonstrates the implementation of Slowly Changing Dimension Type 2 (SCD2) using Snowflake, AWS S3, and Docker.
