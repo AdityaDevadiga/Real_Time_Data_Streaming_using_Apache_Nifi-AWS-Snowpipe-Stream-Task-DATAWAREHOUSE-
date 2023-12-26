@@ -2,6 +2,9 @@
 
 # Architecture Diagram
 
+
+![Architecure diagram](https://github.com/AdityaDevadiga/Real_Time_Data_Streaming_using_Apache_Nifi-AWS-Snowpipe-Stream-Task-DATAWAREHOUSE-/assets/72966036/9c23f74d-55b9-4bfb-a61d-cebc62e073bf)
+
    
 
 # SCD2 Snowflake Docker Project
